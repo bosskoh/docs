@@ -2,7 +2,7 @@
 title: Submitting content removal requests
 redirect_from:
   - /articles/submitting-content-removal-requests
-versions:
+versions:docs/content/github/site-policy/submitting-content-removal-requests.md
   fpt: '*'
 topics:
   - Policy
